@@ -42,7 +42,7 @@ The dataset includes various customer usage metrics across months, labeled with 
 
 The dataset used for this project can be downloaded from the following link:
 
-[Download the file](Data+Dictionary-+Telecom+Churn+Case+Study (2) (1).xlsx)
+[Download the file][(Data+Dictionary-+Telecom+Churn+Case+Study (2) (1).xlsx)](https://github.com/Munnir-pasha/Telecom-Churn/blob/main/Data%2BDictionary-%2BTelecom%2BChurn%2BCase%2BStudy%20(2)%20(1).xlsx)
 
 ### Data Preparation
 1. **Derive New Features:** Use domain knowledge to create features that indicate churn.
